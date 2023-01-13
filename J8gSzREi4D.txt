@@ -1,3 +1,1 @@
-<?php
-echo "\033[96mYou're Using The Latest Version Of Our Tool";
-?>
+You're Using The Latest Version Of Our Tool
